@@ -176,6 +176,10 @@ const boxVariants = {
 
 In this example, we define a boxVariants object with three variants: initial, animate, and hover. We can apply these variants using the variants prop on the motion.div component. By specifying the initial and animate variants, the animation will play when the component mounts. Additionally, when hovering over the component, it will apply the hover variant with a scale effect.
 
+Please, do have a look down below
+
+![Variants](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/3bf09646-1d45-46c2-895e-0a9d1a282e9c)
+
 Wow, variants seem incredibly handy! They make it easier to manage and reuse animation patterns. Anything else we should know?
 
 One more tip is to explore the use of custom transitions. Framer Motion allows us to define our own custom transitions, giving us full control over the animation easing, delays, and more. It allows us to create unique and personalized animations tailored to our specific needs.
