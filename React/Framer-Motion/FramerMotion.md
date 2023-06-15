@@ -30,7 +30,7 @@ Once it's installed, you can import it into your components.
 
 # The motion component
 
-The <b>motion</> component is a key component provided by Framer Motion library. It is used as a wrapper around your existing React components to enable animation capabilities. The motion component enhances the specified component with animation-related features and props.
+The <b>motion</b> component is a key component provided by Framer Motion library. It is used as a wrapper around your existing React components to enable animation capabilities. The motion component enhances the specified component with animation-related features and props.
 
 # So, How do we start animating elements using Framer Motion?
 
@@ -38,7 +38,7 @@ Framer Motion provides a range of components and hooks to create animations. One
 
 One of the key features of Framer Motion is its intuitive API. It offers components like <b>motion.div</b>, <b>motion.button</b>, and <b>motion.svg</b> that can be used to wrap existing React elements and apply animations to them using props. It also provides hooks, such as <b>useAnimation</b> and <b>useMotionValue</b>, for more fine-grained control over animations.
 
-# Let me give an example of fading in an element using Framer Motion
+## Let me give an example of fading in an element using Framer Motion
 
 Let's say you have a <div> that you want to fade in when the component mounts. You can do something like this:
 
