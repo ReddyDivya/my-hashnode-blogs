@@ -44,7 +44,7 @@ That's fantastic! You can already imagine how you can use these animations to en
 
 ## Let's see, Advanced features or tips that we can use?
 
-
+Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
 
 
 
