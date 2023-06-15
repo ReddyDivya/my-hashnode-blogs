@@ -246,6 +246,7 @@ The dragElastic prop determines the elasticity of the dragging motion. A value o
 
 Please, do have a look down below
 
+![Drag](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/e003b453-5dfd-49e6-a87e-741917f6bd03)
 
 
 
