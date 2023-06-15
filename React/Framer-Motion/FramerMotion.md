@@ -40,7 +40,7 @@ One of the key features of Framer Motion is its intuitive API. It offers compone
 
 ## Let me give an example of fading in an element using Framer Motion
 
-Let's say you have a <b><div></b> that you want to fade in when the component mounts. You can do something like this:
+Let's say you have a <b>div</b> that you want to fade in when the component mounts. You can do something like this:
 
 ```
 import { motion } from 'framer-motion';
@@ -54,7 +54,7 @@ function MyComponent() {
 }
 ```
 
-In this example, we set the initial opacity of the <div> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
+In this example, we set the initial opacity of the <b>div</b> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
 
 That's really concise and powerful! Right?
 
