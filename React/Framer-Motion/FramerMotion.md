@@ -82,9 +82,8 @@ function App() {
 
 ```
 
-In this example, the <b><div></b> element starts with an initial opacity of 0 and smoothly animates to an opacity of 1 when the component mounts. This creates a fade-in effect.
+In this example, the <b>div</b> element starts with an initial opacity of 0 and smoothly animates to an opacity of 1 when the component mounts. This creates a fade-in effect.
 
----
 
 ### Sliding an element into view
 
