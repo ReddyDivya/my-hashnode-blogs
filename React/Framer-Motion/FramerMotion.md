@@ -61,3 +61,19 @@ Additionally, make sure to explore the documentation and the examples on the Fra
 
 I'm glad I could help. I'm sure you'll create some amazing animations with Framer Motion. If you have any more questions alongthe way, feel free to reach out. Happy animating!
 
+##  Here are a few examples of animations you can create using Framer Motion in React
+
+### Fading in an element
+
+```
+import { motion } from 'framer-motion';
+
+function App() {
+  return (
+    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+      Hello, world!
+    </motion.div>
+  );
+}
+
+```
