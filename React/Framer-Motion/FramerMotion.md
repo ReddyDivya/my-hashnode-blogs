@@ -18,6 +18,8 @@ Framer Motion provides a range of components and hooks to create animations. One
 
 ## Let me give an example of fading in an element using Framer Motion
 
+Let's say you have a <div> that you want to fade in when the component mounts. You can do something like this:
+
 
 
 Explain with Examples
