@@ -64,7 +64,6 @@ Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</
 
 That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
 
---
 
 ##  Here are a few examples of animations you can create using Framer Motion in React
 
