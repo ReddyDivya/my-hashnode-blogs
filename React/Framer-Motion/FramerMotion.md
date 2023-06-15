@@ -16,6 +16,8 @@ Once it's installed, you can import it into your components.
 
 Framer Motion provides a range of components and hooks to create animations. One commonly used component is motion.div. You can wrap your JSX elements with it and apply animation props to achieve the desired effects.
 
+## Let me give an example of fading in an element using Framer Motion
+
 
 
 Explain with Examples
