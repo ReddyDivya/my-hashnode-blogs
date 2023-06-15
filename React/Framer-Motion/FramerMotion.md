@@ -6,6 +6,8 @@ Framer Motion is a fantastic library for animations in React. I've used it on a 
 
 Let me walk you through the basics. First, you'll need to install it in your project. You can do that by running 
 
+## Install
+
 > npm install framer-motion or yarn add framer-motion. 
 
 Once it's installed, you can import it into your components.
