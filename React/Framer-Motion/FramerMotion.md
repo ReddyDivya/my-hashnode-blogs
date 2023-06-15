@@ -40,6 +40,13 @@ I love how we can define the initial and target states. Let's see other animatio
 
 Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</b>, <b>translateX</b>, and many more to animate different aspects of an element. You can also use the transition prop to define the <b>duration, delay, and easing of the animation</b>.
 
+That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
+
+## Let's see, Advanced features or tips that we can use?
+
+
+
+
 
 
 Conclusion
