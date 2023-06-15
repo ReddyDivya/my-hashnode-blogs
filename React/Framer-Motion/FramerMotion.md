@@ -94,18 +94,49 @@ I love how we can define the initial and target states. Let's see other animatio
 
 Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</b>, <b>translateX</b>, and many more to animate different aspects of an element. You can also use the transition prop to define the <b>duration, delay, and easing of the animation</b>.
 
+Framer Motion offers some advanced features and tips to take our animations to the next level. Let me share a few with you.
+
+# What are some of these advanced features?
+
+## Spring-based animations in Framer Motion
+
+Spring-based animations in Framer Motion allow us to create animations that feel more natural and bouncy, like objects in the real world.
+
+In linear animations, elements move in a straight line at a constant speed. But with spring-based animations, we can make elements move in a more dynamic and lively way, as if they are being affected by forces like springs.
+
+To achieve this effect, we can adjust properties like damping, stiffness, and mass. Damping controls how quickly the animation slows down, stiffness determines how rigid or bouncy the animation is, and mass affects the weightiness of the animation.
+
+By tweaking these properties, we can create different behaviors for our animations. For example, we can have a subtle bounce effect or a more exaggerated and playful movement.
+
+Using spring-based animations adds a touch of realism and interactivity to our user interfaces. It can make our animations feel more engaging and enjoyable for users, as they mimic the way objects move in the physical world.
+
+That sounds really interesting! How do we implement spring-based animations in Framer Motion?
+
+We can use the animate prop with the spring configuration. Here's an example
+
+```
+<motion.div
+  initial={{ opacity: 0, y: -100 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ type: 'spring', damping: 10, stiffness: 100 }}
+>
+  Spring animation!
+</motion.div>
+```
+
+
+
+
+
+
+
+
+
+Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
+
 That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
 
 These examples demonstrate how you can use Framer Motion to create simple animations. By specifying the initial and target values for various properties and defining the desired animation behavior, you can achieve visually appealing effects with just a few lines of code.
-
----
-
-## Keyframes
-
----
-## Let's see, Advanced features or tips that we can use?
-
-Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
 
 Additionally, make sure to explore the documentation and the examples on the Framer Motion website. They provide a wealth of information and inspiration.
 
