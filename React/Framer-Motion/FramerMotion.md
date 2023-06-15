@@ -25,6 +25,8 @@ Once it's installed, you can import it into your components.
 
 Framer Motion provides a range of components and hooks to create animations. One commonly used component is motion.div. You can wrap your JSX elements with it and apply animation props to achieve the desired effects.
 
+One of the key features of Framer Motion is its intuitive API. It offers components like <b>motion.div</b>, <b>motion.button</b>, and <b>motion.svg</b> that can be used to wrap existing React elements and apply animations to them using props. It also provides hooks, such as <b>useAnimation</b> and <b>useMotionValue</b>, for more fine-grained control over animations.
+
 ## Let me give an example of fading in an element using Framer Motion
 
 Let's say you have a <div> that you want to fade in when the component mounts. You can do something like this:
