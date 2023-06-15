@@ -5,11 +5,11 @@ It can help you really in doing some cool animations for your React projects.
 Let's dive into the topic.
 
 # What is Framer Motion?
-Framer Motion is a free toolkit that helps developers make cool animations for their React apps. It's like a set of tools thatmakes creating animations easy.
+Framer Motion is a free toolkit that helps developers make cool animations for their React apps. It's like a set of tools that makes creating animations easy.
 
-With Framer Motion, you can make things move, fade, and transform on the screen in a smooth and fancy way. It works well with React, which is a popular JavaScript library for building user interfaces.
+With Framer Motion, you can make things <b>move, fade, and transform</b> on the screen in a <b>smooth and fancy way</b>. It works well with React, which is a popular JavaScript library for building user interfaces.
 
-The best part is that Framer Motion uses a simple and clear way to write your animations. You can tell it what to animate, how long it should take, and how it should look when it's done. It's like giving instructions to a robot to make things move and change.
+The best part is that Framer Motion uses a simple and clear way to write your animations. You can tell it <b>what to animate, how long it should take, and how it should look when it's done</b>. It's like giving instructions to a robot to make things move and change.
 
 Overall, Framer Motion is a handy tool for React developers who want to add eye-catching animations to their apps without too much hassle.
 
@@ -17,7 +17,13 @@ Let me walk you through the basics. First, you'll need to install it in your pro
 
 ## Install
 
-> npm install framer-motion or yarn add framer-motion. 
+```
+npm install framer-motion 
+
+(or)
+
+yarn add framer-motion. 
+```
 
 Once it's installed, you can import it into your components.
 
