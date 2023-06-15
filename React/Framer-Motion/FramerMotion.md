@@ -133,6 +133,10 @@ It adds a dynamic and lively touch to the animations.
 
 Framer Motion also offers variants, which are a powerful way to define reusable animation patterns. Variants allow us to create sets of animations and transitions that can be applied to multiple elements. We can define different states and transitions for each variant, making it easier to manage complex animations and maintain a consistent design language throughout our app.
 
+That sounds incredibly useful! Let's see, how do we define and use variants in Framer Motion?
+
+
+
 
 
 
