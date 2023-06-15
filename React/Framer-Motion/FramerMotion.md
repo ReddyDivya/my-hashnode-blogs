@@ -135,6 +135,34 @@ Framer Motion also offers variants, which are a powerful way to define reusable 
 
 That sounds incredibly useful! Let's see, how do we define and use variants in Framer Motion?
 
+We can define a variant object with named sets of animation properties and transitions, and then apply those variants to our elements. Here's an example
+
+```
+const boxVariants = {
+  initial: { opacity: 0 },
+  animate: { opacity: 1 },
+  hover: { scale: 1.2 },
+};
+
+<motion.div
+  variants={boxVariants}
+  initial="initial"
+  animate="animate"
+  whileHover="hover"
+>
+  Variant animation!
+</motion.div>
+
+```
+
+In this example, we define a boxVariants object with three variants: initial, animate, and hover. We can apply these variants using the variants prop on the motion.div component. By specifying the initial and animate variants, the animation will play when the component mounts. Additionally, when hovering over the component, it will apply the hover variant with a scale effect.
+
+Wow, variants seem incredibly handy! They make it easier to manage and reuse animation patterns. Anything else we should know?
+
+One more tip is to explore the use of custom transitions. Framer Motion allows us to define our own custom transitions, giving us full control over the animation easing, delays, and more. It allows us to create unique and personalized animations tailored to our specific needs.
+
+
+
 
 
 
