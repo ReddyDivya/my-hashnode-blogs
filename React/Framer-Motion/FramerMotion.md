@@ -90,7 +90,7 @@ import { motion } from 'framer-motion';
 
 function App() {
   return (
-    <motion.div whileHover={{ scale: 1.2 }}>
+    <motion.div whileHover={{ scale: 1. }}>
       Hover me!
     </motion.div>
   );
@@ -178,9 +178,41 @@ One more tip is to explore the use of custom transitions. Framer Motion allows u
 
 That's a great tip! Custom transitions can definitely add a personal touch to our animations. You'll definitely explore that.
 
+## Custom transitions in Framer Motion
 
+Custom transitions in Framer Motion allow us to define and use our own animation transitions, giving us full control over how elements animate and interact. Let's explore the use of custom transitions in more detail.
 
+To create a custom transition, we can define our own animation variants using the variants prop. Each variant represents a different state of the animation. Within each variant, we can specify the desired animation properties and transitions.
 
+Here's an example:
+
+```
+import { motion } from 'framer-motion';
+
+const customTransition = {
+  duration: 0.5,
+  ease: [0.6, 0.01, -0.05, 0.9],
+};
+
+const variants = {
+  initial: { opacity: 0 },
+  animate: { opacity: 1, transition: customTransition },
+  exit: { opacity: 0, transition: customTransition },
+};
+
+function CustomTransitionsExample() {
+  return (
+    <motion.div
+      variants={variants}
+      initial="initial"
+      animate="animate"
+      exit="exit"
+    >
+      Custom Transitions
+    </motion.div>
+  );
+}
+```
 
 
 
