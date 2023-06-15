@@ -161,6 +161,8 @@ Wow, variants seem incredibly handy! They make it easier to manage and reuse ani
 
 One more tip is to explore the use of custom transitions. Framer Motion allows us to define our own custom transitions, giving us full control over the animation easing, delays, and more. It allows us to create unique and personalized animations tailored to our specific needs.
 
+That's a great tip! Custom transitions can definitely add a personal touch to our animations. You'll definitely explore that.
+
 
 
 
