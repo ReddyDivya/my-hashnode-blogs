@@ -272,8 +272,10 @@ onDragStart, onDrag, onDragEnd: Event callbacks that allow you to perform action
 
 By combining these props and event callbacks, you can create interactive and customizable dragging experiences with Framer Motion. Feel free to adjust the values and explore other options based on your specific requirements.
 
+Please, do have a look down below
 
-Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
+![Drag2](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/d387a253-beb2-46e6-b891-ebbb417f741e)
+
 
 That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
 
