@@ -124,6 +124,19 @@ We can use the animate prop with the spring configuration. Here's an example
 </motion.div>
 ```
 
+In this example, we're using a spring animation for the animate prop. We can adjust the damping and stiffness values to fine-tune the animation's behavior.
+
+That's awesome! Right?
+It adds a dynamic and lively touch to the animations.
+
+## Variants in Framer Motion
+
+Framer Motion also offers variants, which are a powerful way to define reusable animation patterns. Variants allow us to create sets of animations and transitions that can be applied to multiple elements. We can define different states and transitions for each variant, making it easier to manage complex animations and maintain a consistent design language throughout our app.
+
+
+
+
+
 
 
 
