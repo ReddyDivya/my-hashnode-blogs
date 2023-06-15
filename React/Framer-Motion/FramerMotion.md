@@ -38,9 +38,10 @@ Framer Motion provides a range of components and hooks to create animations. One
 
 One of the key features of Framer Motion is its intuitive API. It offers components like <b>motion.div</b>, <b>motion.button</b>, and <b>motion.svg</b> that can be used to wrap existing React elements and apply animations to them using props. It also provides hooks, such as <b>useAnimation</b> and <b>useMotionValue</b>, for more fine-grained control over animations.
 
-## Let me give an example of fading in an element using Framer Motion
 
-Let's say you have a <b>div</b> that you want to fade in when the component mounts. You can do something like this:
+##  Here are a few examples of animations you can create using Framer Motion in React
+
+### Fading in an element
 
 ```
 import { motion } from 'framer-motion';
@@ -55,35 +56,6 @@ function MyComponent() {
 ```
 
 In this example, we set the initial opacity of the <b>div</b> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
-
-That's really concise and powerful! Right?
-
-I love how we can define the initial and target states. Let's see other animation properties that we can use.
-
-Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</b>, <b>translateX</b>, and many more to animate different aspects of an element. You can also use the transition prop to define the <b>duration, delay, and easing of the animation</b>.
-
-That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
-
-
-##  Here are a few examples of animations you can create using Framer Motion in React
-
-### Fading in an element
-
-```
-import { motion } from 'framer-motion';
-
-function App() {
-  return (
-    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-      Hello, world!
-    </motion.div>
-  );
-}
-
-```
-
-In this example, the <b>div</b> element starts with an initial opacity of 0 and smoothly animates to an opacity of 1 when the component mounts. This creates a fade-in effect.
-
 
 ### Sliding an element into view
 
@@ -116,6 +88,14 @@ function App() {
 }
 ```
 In this example, when you hover over the <div>, it scales up by 20% (scale: 1.2), giving it a zoom-in effect. When you move the mouse away, it returns to its original size smoothly.
+
+That's really concise and powerful! Right?
+
+I love how we can define the initial and target states. Let's see other animation properties that we can use.
+
+Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</b>, <b>translateX</b>, and many more to animate different aspects of an element. You can also use the transition prop to define the <b>duration, delay, and easing of the animation</b>.
+
+That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
 
 These examples demonstrate how you can use Framer Motion to create simple animations. By specifying the initial and target values for various properties and defining the desired animation behavior, you can achieve visually appealing effects with just a few lines of code.
 
