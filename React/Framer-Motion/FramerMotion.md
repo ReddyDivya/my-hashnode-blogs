@@ -73,8 +73,6 @@ function App() {
 
 Here, the <b>div</b> starts positioned 100 pixels to the left (x: -100) and animates to its original position (x: 0), sliding into view from the left side of the screen.
 
----
-
 ## Scaling an element on hover
 
 ```
