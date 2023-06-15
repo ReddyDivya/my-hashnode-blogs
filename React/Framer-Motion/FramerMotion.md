@@ -141,6 +141,10 @@ We can use the animate prop with the spring configuration. Here's an example
 
 In this example, we're using a spring animation for the animate prop. We can adjust the damping and stiffness values to fine-tune the animation's behavior.
 
+Please, do have a look down below
+
+![Framer-Motion-Spring](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/583eba59-d55a-48db-b562-b3b15f5f9b26)
+
 That's awesome! Right?
 It adds a dynamic and lively touch to the animations.
 
@@ -171,6 +175,10 @@ const boxVariants = {
 ```
 
 In this example, we define a boxVariants object with three variants: initial, animate, and hover. We can apply these variants using the variants prop on the motion.div component. By specifying the initial and animate variants, the animation will play when the component mounts. Additionally, when hovering over the component, it will apply the hover variant with a scale effect.
+
+Please, do have a look down below
+
+![Variants](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/3bf09646-1d45-46c2-895e-0a9d1a282e9c)
 
 Wow, variants seem incredibly handy! They make it easier to manage and reuse animation patterns. Anything else we should know?
 
