@@ -12,6 +12,10 @@ Let me walk you through the basics. First, you'll need to install it in your pro
 
 Once it's installed, you can import it into your components.
 
+## So, How do we start animating elements using Framer Motion?
+
+Framer Motion provides a range of components and hooks to create animations. One commonly used component is motion.div. You can wrap your JSX elements with it and apply animation props to achieve the desired effects.
+
 
 
 Explain with Examples
