@@ -32,13 +32,13 @@ function MyComponent() {
 }
 ```
 
-In this example, we set the initial opacity of the <div> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
+In this example, we set the initial opacity of the <b><div></b> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
 
 That's really concise and powerful! Right?
 
 I love how we can define the initial and target states. Let's see other animation properties that we can use.
 
-Framer Motion provides a wide range of properties like <b>scale</b>, rotate, translateX, and many more to animate different aspects of an element. You can also use the transition prop to define the duration, delay, and easing of the animation.
+Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</b>, <b>translateX</b>, and many more to animate different aspects of an element. You can also use the transition prop to define the duration, delay, and easing of theanimation.
 
 
 
