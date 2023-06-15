@@ -38,6 +38,8 @@ That's really concise and powerful! Right?
 
 I love how we can define the initial and target states. Let's see other animation properties that we can use.
 
+Framer Motion provides a wide range of properties like <b>scale</b>, rotate, translateX, and many more to animate different aspects of an element. You can also use the transition prop to define the duration, delay, and easing of the animation.
+
 
 
 Conclusion
