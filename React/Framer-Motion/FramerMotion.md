@@ -39,9 +39,9 @@ Framer Motion provides a range of components and hooks to create animations. One
 One of the key features of Framer Motion is its intuitive API. It offers components like <b>motion.div</b>, <b>motion.button</b>, and <b>motion.svg</b> that can be used to wrap existing React elements and apply animations to them using props. It also provides hooks, such as <b>useAnimation</b> and <b>useMotionValue</b>, for more fine-grained control over animations.
 
 
-##  Here are a few examples of animations you can create using Framer Motion in React
+#  Here are a few examples of animations you can create using Framer Motion in React
 
-### Fading in an element
+## Fading in an element
 
 ```
 import { motion } from 'framer-motion';
@@ -57,7 +57,7 @@ function MyComponent() {
 
 In this example, we set the initial opacity of the <b>div</b> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
 
-### Sliding an element into view
+## Sliding an element into view
 
 ```
 import { motion } from 'framer-motion';
@@ -74,7 +74,7 @@ function App() {
 Here, the <div> starts positioned 100 pixels to the left (x: -100) and animates to its original position (x: 0), sliding into view from the left side of the screen.
 ---
 
-### Scaling an element on hover
+## Scaling an element on hover
 
 ```
 import { motion } from 'framer-motion';
@@ -101,10 +101,10 @@ These examples demonstrate how you can use Framer Motion to create simple animat
 
 ---
 
-### Keyframes
+## Keyframes
 
 ---
-# Let's see, Advanced features or tips that we can use?
+## Let's see, Advanced features or tips that we can use?
 
 Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
 
