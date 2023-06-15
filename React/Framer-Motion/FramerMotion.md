@@ -62,7 +62,6 @@ Please, do have a look down below
 ![FadeIn](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/7249d89b-2a7d-4e40-98bd-09f4556b0901)
 
 
-
 ## Sliding an element into view
 
 ```
@@ -78,6 +77,11 @@ function App() {
 ```
 
 Here, the <b>div</b> starts positioned 100 pixels to the left (x: -100) and animates to its original position (x: 0), sliding into view from the left side of the screen.
+
+Please, do have a look down below
+![SlideIn](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/daaa2001-8790-49a5-9e7a-78d038c1c27a)
+
+
 
 ## Scaling an element on hover
 
