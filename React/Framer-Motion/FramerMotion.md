@@ -141,6 +141,10 @@ We can use the animate prop with the spring configuration. Here's an example
 
 In this example, we're using a spring animation for the animate prop. We can adjust the damping and stiffness values to fine-tune the animation's behavior.
 
+Please, do have a look down below
+
+![Framer-Motion-Spring](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/583eba59-d55a-48db-b562-b3b15f5f9b26)
+
 That's awesome! Right?
 It adds a dynamic and lively touch to the animations.
 
