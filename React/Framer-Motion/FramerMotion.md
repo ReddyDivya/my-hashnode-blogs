@@ -20,6 +20,7 @@ Framer Motion provides a range of components and hooks to create animations. One
 
 Let's say you have a <div> that you want to fade in when the component mounts. You can do something like this:
 
+```
 import { motion } from 'framer-motion';
 
 function MyComponent() {
@@ -29,6 +30,7 @@ function MyComponent() {
     </motion.div>
   );
 }
+```
 
 
 Explain with Examples
