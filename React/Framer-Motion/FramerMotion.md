@@ -57,6 +57,12 @@ function MyComponent() {
 
 In this example, we set the initial opacity of the <b>div</b> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
 
+Please, do have a look down below
+
+![FadeIn](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/7249d89b-2a7d-4e40-98bd-09f4556b0901)
+
+
+
 ## Sliding an element into view
 
 ```
