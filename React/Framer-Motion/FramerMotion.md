@@ -20,6 +20,15 @@ Framer Motion provides a range of components and hooks to create animations. One
 
 Let's say you have a <div> that you want to fade in when the component mounts. You can do something like this:
 
+import { motion } from 'framer-motion';
+
+function MyComponent() {
+  return (
+    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }}>
+      Hello, world!
+    </motion.div>
+  );
+}
 
 
 Explain with Examples
