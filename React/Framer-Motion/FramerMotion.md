@@ -219,6 +219,7 @@ Then, we define a set of animation variants within the variants object. The init
 
 By using custom transitions, we have complete control over the animation properties, easing curves, durations, delays, and other parameters. This allows us to create unique and tailored animation effects that align perfectly with our design goals and user experience.
 
+![CustomTransition](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/3ef5978c-e438-4d13-8cd2-fa0398b3fe5b)
 
 ## Drag in framer-motion
 
