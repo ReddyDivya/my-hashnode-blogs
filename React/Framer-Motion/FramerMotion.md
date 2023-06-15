@@ -32,8 +32,13 @@ function MyComponent() {
 }
 ```
 
+In this example, we set the initial opacity of the <div> to 0, and when the component mounts, it smoothly animates to an opacity of 1 over a duration of 1 second.
 
-Explain with Examples
+That's really concise and powerful! Right?
+
+I love how we can define the initial and target states. Let's see other animation properties that we can use.
+
+
 
 Conclusion
 
