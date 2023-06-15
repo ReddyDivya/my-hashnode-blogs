@@ -88,7 +88,7 @@ function App() {
   );
 }
 ```
-In this example, when you hover over the <div>, it scales up by 20% (scale: 1.2), giving it a zoom-in effect. When you move the mouse away, it returns to its original size smoothly.
+In this example, when you hover over the <b>div</b>, it scales up by 20% (scale: 1.2), giving it a zoom-in effect. When you move the mouse away, it returns to its original size smoothly.
 
 That's really concise and powerful! Right?
 
