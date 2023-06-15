@@ -97,4 +97,26 @@ function App() {
 ```
 
 Here, the <div> starts positioned 100 pixels to the left (x: -100) and animates to its original position (x: 0), sliding into view from the left side of the screen.
+---
+
+### Scaling an element on hover
+
+```
+import { motion } from 'framer-motion';
+
+function App() {
+  return (
+    <motion.div whileHover={{ scale: 1.2 }}>
+      Hover me!
+    </motion.div>
+  );
+}
+```
+In this example, when you hover over the <div>, it scales up by 20% (scale: 1.2), giving it a zoom-in effect. When you move the mouse away, it returns to its original size smoothly.
+
+These examples demonstrate how you can use Framer Motion to create simple animations. By specifying the initial and target values for various properties and defining the desired animation behavior, you can achieve visually appealing effects with just a few lines of code.
+
+---
+
+## Keyframes
 
