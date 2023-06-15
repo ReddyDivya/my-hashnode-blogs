@@ -13,9 +13,10 @@ The best part is that Framer Motion uses a simple and clear way to write your an
 
 Overall, Framer Motion is a handy tool for React developers who want to add eye-catching animations to their apps without too much hassle.
 
+
 Let me walk you through the basics. First, you'll need to install it in your project. You can do that by running 
 
-## Install
+# Install
 
 ```
 npm install framer-motion 
@@ -27,13 +28,17 @@ yarn add framer-motion.
 
 Once it's installed, you can import it into your components.
 
-## So, How do we start animating elements using Framer Motion?
+# The motion component
+
+The <b>motion</> component is a key component provided by Framer Motion library. It is used as a wrapper around your existing React components to enable animation capabilities. The motion component enhances the specified component with animation-related features and props.
+
+# So, How do we start animating elements using Framer Motion?
 
 Framer Motion provides a range of components and hooks to create animations. One commonly used component is motion.div. You can wrap your JSX elements with it and apply animation props to achieve the desired effects.
 
 One of the key features of Framer Motion is its intuitive API. It offers components like <b>motion.div</b>, <b>motion.button</b>, and <b>motion.svg</b> that can be used to wrap existing React elements and apply animations to them using props. It also provides hooks, such as <b>useAnimation</b> and <b>useMotionValue</b>, for more fine-grained control over animations.
 
-## Let me give an example of fading in an element using Framer Motion
+# Let me give an example of fading in an element using Framer Motion
 
 Let's say you have a <div> that you want to fade in when the component mounts. You can do something like this:
 
@@ -59,7 +64,7 @@ Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</
 
 That's fantastic! You can already imagine how you can use these animations to enhance the user experience in your app. 
 
-## Let's see, Advanced features or tips that we can use?
+# Let's see, Advanced features or tips that we can use?
 
 Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
 
@@ -67,6 +72,7 @@ Additionally, make sure to explore the documentation and the examples on the Fra
 
 I'm glad I could help. I'm sure you'll create some amazing animations with Framer Motion. If you have any more questions alongthe way, feel free to reach out. Happy animating!
 --
+
 ##  Here are a few examples of animations you can create using Framer Motion in React
 
 ### Fading in an element
@@ -124,5 +130,5 @@ These examples demonstrate how you can use Framer Motion to create simple animat
 
 ---
 
-## Keyframes
+### Keyframes
 
