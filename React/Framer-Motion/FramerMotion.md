@@ -96,7 +96,12 @@ function App() {
   );
 }
 ```
+
 In this example, when you hover over the <b>div</b>, it scales up by 20% (scale: 1.2), giving it a zoom-in effect. When you move the mouse away, it returns to its original size smoothly.
+
+Please, do have a look down below
+
+![Hover](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/be68216b-49a5-4456-ae56-374afa379aa7)
 
 That's really concise and powerful! Right?
 
