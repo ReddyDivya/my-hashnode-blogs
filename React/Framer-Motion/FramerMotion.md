@@ -242,7 +242,10 @@ In this example:
 
 The drag prop enables dragging functionality on the component.
 The dragConstraints prop sets the boundaries within which the component can be dragged. By setting the values to { left: 0, right: 0, top: 0, bottom: 0 }, the component can be dragged within the boundaries of its parent container.
-The dragElastic prop determines the elasticity of the dragging motion. A value of 0.5 means the component will snap back to its original position if released within a short distance from its starting point.
+The dragElastic prop determines the elasticity of the dragging motion. A value of 1.0 means the component will snap back to its original position if released within a short distance from its starting point.
+
+Please, do have a look down below
+
 
 
 
