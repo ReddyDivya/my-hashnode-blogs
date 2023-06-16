@@ -111,7 +111,7 @@ Framer Motion provides a wide range of properties like <b>scale</b>, <b>rotate</
 
 Framer Motion offers some advanced features and tips to take our animations to the next level. Let me share a few with you.
 
-# What are some of these advanced features?
+# What are some of the advanced features?
 
 ## Spring-based animations in Framer Motion
 
