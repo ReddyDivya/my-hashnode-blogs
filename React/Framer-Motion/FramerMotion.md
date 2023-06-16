@@ -248,17 +248,29 @@ Please, do have a look down below
 
 ![Drag](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/e003b453-5dfd-49e6-a87e-741917f6bd03)
 
+You can further customize the dragging behavior by using additional props.
 
+dragTransition: Defines the transition animation when the component is dragged. 
+For example, you can set { bounceStiffness: 300, bounceDamping: 10 } to create a bouncy effect when releasing the component.
 
+dragMomentum: Determines whether the dragging motion has momentum after releasing. Set it to false to disable momentum.
 
+onDragStart, onDrag, onDragEnd: Event callbacks that allow you to perform actions based on drag events.
 
+```
+<motion.div
+  drag
+  dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
+  dragElastic={0.5}
+  dragTransition={{ bounceStiffness: 300, bounceDamping: 10 }}
+  dragMomentum={false}
+  onDragStart={() => console.log('Drag started')}
+  onDrag={() => console.log('Dragging')}
+  onDragEnd={() => console.log('Drag ended')}
+/>
+```
 
-
-
-
-
-
-
+By combining these props and event callbacks, you can create interactive and customizable dragging experiences with Framer Motion. Feel free to adjust the values and explore other options based on your specific requirements.
 
 
 Framer Motion also supports keyframes, staggering animations, and even gesture-based animations. You can create really complexand interactive animations using these features.
