@@ -141,10 +141,6 @@ We can use the animate prop with the spring configuration. Here's an example
 
 In this example, we're using a spring animation for the animate prop. We can adjust the damping and stiffness values to fine-tune the animation's behavior.
 
-Please, do have a look down below
-
-![Framer-Motion-Spring](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/583eba59-d55a-48db-b562-b3b15f5f9b26)
-
 That's awesome! Right?
 It adds a dynamic and lively touch to the animations.
 
@@ -175,10 +171,6 @@ const boxVariants = {
 ```
 
 In this example, we define a boxVariants object with three variants: initial, animate, and hover. We can apply these variants using the variants prop on the motion.div component. By specifying the initial and animate variants, the animation will play when the component mounts. Additionally, when hovering over the component, it will apply the hover variant with a scale effect.
-
-Please, do have a look down below
-
-![Variants](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/3bf09646-1d45-46c2-895e-0a9d1a282e9c)
 
 Wow, variants seem incredibly handy! They make it easier to manage and reuse animation patterns. Anything else we should know?
 
@@ -221,6 +213,37 @@ function CustomTransitionsExample() {
   );
 }
 ```
+In this example, we define a custom transition named customTransition, which has a duration of 0.5 seconds and uses a custom cubic-bezier easing curve defined by the array [0.6, 0.01, -0.05, 0.9].
+
+Then, we define a set of animation variants within the variants object. The initial variant sets the initial opacity to 0, the animate variant sets the opacity to 1 with the custom transition, and the exit variant sets the opacity to 0 with the same custom transition.
+
+By using custom transitions, we have complete control over the animation properties, easing curves, durations, delays, and other parameters. This allows us to create unique and tailored animation effects that align perfectly with our design goals and user experience.
+
+
+## Drag in framer-motion
+
+To enable dragging functionality in Framer Motion, you can use the drag prop on the motion component. This allows you to make your components draggable with customizable options. Here's an example of how to use drag in Framer Motion.
+
+```
+import { motion } from 'framer-motion';
+
+const MyComponent = () => {
+  return (
+    <motion.div
+      drag
+	  dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
+	  dragElastic={1.0}
+    />
+  );
+};
+```
+
+In this example:
+
+The drag prop enables dragging functionality on the component.
+The dragConstraints prop sets the boundaries within which the component can be dragged. By setting the values to { left: 0, right: 0, top: 0, bottom: 0 }, the component can be dragged within the boundaries of its parent container.
+The dragElastic prop determines the elasticity of the dragging motion. A value of 0.5 means the component will snap back to its original position if released within a short distance from its starting point.
+
 
 
 
