@@ -14,7 +14,7 @@ This repository encompasses my curated blogs.
 
 [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
 
-[CSS Color] (https://thedivyareddyy.hashnode.dev/css-colors)
+[CSS Color](https://thedivyareddyy.hashnode.dev/css-colors)
 
 ## Framer Motion in React
 
