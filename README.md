@@ -10,6 +10,10 @@ https://thedivyareddyy.hashnode.dev/destructuring-assignment
 
 https://thedivyareddyy.hashnode.dev/promise
 
+## Template Literals
+
+https://thedivyareddyy.hashnode.dev/template-literals
+
 
 ## Framer Motion in React
 
