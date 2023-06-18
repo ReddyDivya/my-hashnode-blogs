@@ -2,32 +2,19 @@
 
 This repository encompasses my curated blogs.
 
-## ![Destructuring Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
+![Destructuring Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
 
-## Promise
+![Promise](https://thedivyareddyy.hashnode.dev/promise)
 
-https://thedivyareddyy.hashnode.dev/promise
+![Template Literals](https://thedivyareddyy.hashnode.dev/template-literals)
 
-## Template Literals
+![Export and Import](https://thedivyareddyy.hashnode.dev/export-import)
 
-https://thedivyareddyy.hashnode.dev/template-literals
+![Arrow Function](https://thedivyareddyy.hashnode.dev/arrow-function)
 
-## Export and Import
+![CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
 
-https://thedivyareddyy.hashnode.dev/export-import
-
-## Arrow Function
-
-https://thedivyareddyy.hashnode.dev/arrow-function
-
-## CSS Box Model
-
-https://thedivyareddyy.hashnode.dev/css-box-model
-
-## CSS Color
-
-https://thedivyareddyy.hashnode.dev/css-colors
-
+![CSS Color] (https://thedivyareddyy.hashnode.dev/css-colors)
 
 ## Framer Motion in React
 
