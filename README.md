@@ -26,5 +26,10 @@ https://thedivyareddyy.hashnode.dev/arrow-function
 
 https://thedivyareddyy.hashnode.dev/css-box-model
 
+## CSS Color
+
+https://thedivyareddyy.hashnode.dev/css-colors
+
+
 ## Framer Motion in React
 
