@@ -14,6 +14,14 @@ https://thedivyareddyy.hashnode.dev/promise
 
 https://thedivyareddyy.hashnode.dev/template-literals
 
+## Export and Import
+
+https://thedivyareddyy.hashnode.dev/export-import
+
+## Arrow Function
+
+https://thedivyareddyy.hashnode.dev/arrow-function
+
 
 ## Framer Motion in React
 
