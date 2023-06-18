@@ -9,6 +9,7 @@ This repository encompasses my curated blogs.
 5. [Arrow Function](https://thedivyareddyy.hashnode.dev/arrow-function)
 6. [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
 7. [CSS Color](https://thedivyareddyy.hashnode.dev/css-colors)
+8. [JavaScript Array Methods](https://thedivyareddyy.hashnode.dev/javascript-array-methods-to-simplify-your-code)
 
 ## Framer Motion in React
 
