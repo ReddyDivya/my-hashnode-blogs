@@ -22,6 +22,9 @@ https://thedivyareddyy.hashnode.dev/export-import
 
 https://thedivyareddyy.hashnode.dev/arrow-function
 
+## CSS Box Model
+
+https://thedivyareddyy.hashnode.dev/css-box-model
 
 ## Framer Motion in React
 
