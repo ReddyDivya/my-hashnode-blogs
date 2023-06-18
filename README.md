@@ -2,7 +2,7 @@
 
 This repository encompasses my curated blogs.
 
-[Destructuring Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
+1. [Destructuring Assignment](https://thedivyareddyy.hashnode.dev/destructuring-assignment)
 
 [Promise](https://thedivyareddyy.hashnode.dev/promise)
 
