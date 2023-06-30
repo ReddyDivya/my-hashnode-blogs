@@ -1,4 +1,8 @@
-Framer Motion is a fantastic library for animations in React. I've used it on a few projects, and it's been a game-changer. The API is super intuitive and allows us to create stunning animations with ease. We can do smooth transitions like fading in elements or sliding them into view. It can give your app some extra touch of polish.
+![image](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/24fb7cb4-63ae-4bce-a6fc-01af766369bb)
+
+# Unleashing the Power of Framer Motion - Elevate Your React Animations!
+
+Framer Motion is a fantastic library for animations in React. I've used it on a few projects, and it's been a game-changer. The API is super intuitive and allows us to easily create stunning animations. We can do smooth transitions like fading in elements or sliding them into view. It can give your app some extra touch of polish.
 
 It can really help you in creating some cool animations for your React projects.
 
