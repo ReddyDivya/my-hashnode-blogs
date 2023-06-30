@@ -41,7 +41,7 @@ One of the key features of Framer Motion is its intuitive API. It offers compone
 
 #  Here are a few examples of animations you can create using Framer Motion in React
 
-## Fading in an element
+## Fading an element
 
 ```
 import { motion } from 'framer-motion';
