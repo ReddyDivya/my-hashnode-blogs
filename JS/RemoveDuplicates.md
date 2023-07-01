@@ -1,5 +1,8 @@
 # Level Up Your JavaScript Arrays: Say Goodbye to Duplicates!
 
+![problemsolving](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/20b8840f-44db-4ceb-8775-a2b04929b75b)
+
+
 Greetings, fellow coders and innovators!👋
 
 ## Introduction
