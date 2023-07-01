@@ -8,9 +8,10 @@ This repository encompasses my curated blogs.
 4. [JavaScript Export and Import: Unlocking the Secrets of Code Reusability](https://thedivyareddyy.hashnode.dev/export-import)
 5. [Unleashing the Power of Framer Motion](https://thedivyareddyy.hashnode.dev/framer-motion)
 6. [Simplifying JavaScript with Arrow Functions](https://thedivyareddyy.hashnode.dev/arrow-functions)
+7. [Level Up Your JavaScript Arrays: Say Goodbye to Duplicates!](https://thedivyareddyy.hashnode.dev/no-duplicates)
 
-7. [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
-8. [CSS Color](https://thedivyareddyy.hashnode.dev/css-colors)
-9. [JavaScript Array Methods](https://thedivyareddyy.hashnode.dev/javascript-array-methods-to-simplify-your-code)
+8. [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
+9. [CSS Color](https://thedivyareddyy.hashnode.dev/css-colors)
+10. [JavaScript Array Methods](https://thedivyareddyy.hashnode.dev/javascript-array-methods-to-simplify-your-code)
 
 
