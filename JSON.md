@@ -1,5 +1,8 @@
 # Unlocking the Power of JSON: Learn the ins and outs of JSON
 
+![image](https://github.com/ReddyDivya/my-hashnode-blogs/assets/34181144/54b7328f-31df-494f-8269-159605db0252)
+
+
 ## Introduction
 Hey, have you heard about JSON? It's pretty important in web development.
 
