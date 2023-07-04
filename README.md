@@ -12,7 +12,7 @@ This repository encompasses my curated blogs.
 8. [The Power of JavaScript Arrays: Discovering the Greatest Value Within!](https://thedivyareddyy.hashnode.dev/largest-value)
 9. [Unlocking the Power of JSON: Learn the ins and outs of JSON](https://thedivyareddyy.hashnode.dev/json)
 10. [Timing is Everything: A Comprehensive Guide to setInterval and clearInterval in JavaScript](https://thedivyareddyy.hashnode.dev/set-and-clear-interval)
-11. 
+11. [Unraveling the Mystery of Temperature Scales](https://thedivyareddyy.hashnode.dev/celsius-fahrenheit)
 
 12. [CSS Box Model](https://thedivyareddyy.hashnode.dev/css-box-model)
 13. [CSS Color](https://thedivyareddyy.hashnode.dev/css-colors)
